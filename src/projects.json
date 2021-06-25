@@ -5,8 +5,38 @@
         "alt": "Brewmap2.0"
     },
     {
-        "url": "https://salty-thicket-97397.herokuapp.com/",
-        "image": "./images/Brewmap2.0.jpg",
-        "alt": "Brewmap2.0"
+        "url": "https://harrisfd.github.io/supperweatherdashboardFDH/",
+        "image": "./images/Weatherdashboardfdh.jpg",
+        "alt": "WeatherBoard"
+    },
+    {
+        "url": "https://notetakerfdh.herokuapp.com/",
+        "image": "./images/Samplelist.jpg",
+        "alt": "Notetaker"
+    },
+    {
+        "url": "https://harrisfd.github.io/workdayschedulerfdh/",
+        "image": "./images/fdh.jpg",
+        "alt": "Scheduler"
+    },
+    {
+        "url": "",
+        "image": "./ID Sample Screensots/images/CRJ 2300 M1.jpg",
+        "alt": "Criminal Justice Course Design"
+    },
+    {
+        "url": "",
+        "image": "./ID Sample Screensots/images/BSD 250 Leadership Development.jpg",
+        "alt": "Leadership Development"
+    },
+    {
+        "url": "",
+        "image": "./ID Sample Screensots/images/Module 2 250.jpg",
+        "alt": "Course Design-Leadership"
+    },
+    {
+        "url": "",
+        "image": "./ID Sample Screensots/images/Course Checklist.jpg",
+        "alt": "Course Checklist"
     }
 ]
