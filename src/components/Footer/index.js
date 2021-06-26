@@ -8,7 +8,7 @@ function Footer() {
                         <h1>contact me</h1>
                         <p>Felicia Harris-Foster
                             <br />
-                            Email: fharrisfoster@gmail.com
+                            <a href="mailto:fharrisfoster@gmail.com">Email: fharrisfoster@gmail.com</a>
                         </p>
                         <p>Phone: 123-456-7890</p>
                         <br />
