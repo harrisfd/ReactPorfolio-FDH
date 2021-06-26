@@ -21,22 +21,22 @@
     },
     {
         "url": "",
-        "image": "./ID Sample Screensots/images/CRJ 2300 M1.jpg",
+        "image": "./images/ID Sample Screenshots/CRJ 2300 M1.JPG",
         "alt": "Criminal Justice Course Design"
     },
     {
         "url": "",
-        "image": "./ID Sample Screensots/images/BSD 250 Leadership Development.jpg",
+        "image": "./images/ID Sample Screenshots/BSAD 250 Leadership Development.JPG",
         "alt": "Leadership Development"
     },
     {
         "url": "",
-        "image": "./ID Sample Screensots/images/Module 2 250.jpg",
+        "image": "/images/ID Sample Screenshots/Module 2 250.JPG",
         "alt": "Course Design-Leadership"
     },
     {
         "url": "",
-        "image": "./ID Sample Screensots/images/Course Checklist.jpg",
+        "image": "./images/ID Sample Screenshots/Course Checklist.JPG",
         "alt": "Course Checklist"
     }
 ]

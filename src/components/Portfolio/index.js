@@ -1,3 +1,4 @@
+import projects from "../../projects.json"
 import Projectcard from "../Projectcard"
 
 function Portfolio() {
@@ -10,8 +11,10 @@ function Portfolio() {
                         <h1 class="heading">Portfolio</h1>
 
                     </div>
-                    <Projectcard />
-                    <Projectcard /> <Projectcard /> <Projectcard /> <Projectcard /> <Projectcard /> <Projectcard /> <Projectcard />
+
+                    {projects.map(project => (
+                        <Projectcard project={project} />
+                    ))}
                 </div>
             </div>
         </section>
