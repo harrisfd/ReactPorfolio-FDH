@@ -8,7 +8,11 @@ function Footer() {
                         <h1>contact me</h1>
                         <p>Felicia Harris-Foster
                             <br />
-                            href={"mailto:fharrisfoster@gmail.com"}Email: fharrisfoster@gmail.com 
+                            <a href={"mailto:fharrisfoster@gmail.com"}>Email: fharrisfoster@gmail.com</a>
+                            <br />
+                            <a href={"www.linkedin.com/in/feliciaharrisfoster"}>Felicia's linkedin Profile</a>
+
+
                         </p>
                         <p>Phone: 123-456-7890</p>
                         <br />
@@ -21,6 +25,5 @@ function Footer() {
         </section>
     )
 }
-
 
 export default Footer
