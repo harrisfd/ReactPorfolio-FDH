@@ -10,7 +10,7 @@ function Footer() {
                             <br />
                             <a href={"mailto:fharrisfoster@gmail.com"}>Email: fharrisfoster@gmail.com</a>
                             <br />
-                            <a href={"www.linkedin.com/in/feliciaharrisfoster"}>Felicia's linkedin Profile</a>
+                            <a href={"linkedin.com/in/feliciaharrisfoster/"}>Felicia's linkedin Profile</a>
 
 
                         </p>
