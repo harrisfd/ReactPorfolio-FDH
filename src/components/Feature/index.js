@@ -17,13 +17,14 @@ function Feature() {
                         </section>
                     </div>
                     <div className="col-md-3 col-sm-3 nopadding">
-                        <img src="./images/Felicia Harris Foster.jpg" />
+                        <img src="./images/Felicia Harris Foster.jpg" alt="Felicia" />
+                    
                     </div>
 
                     <div className="clearfix"></div>
 
                     <div className="col-md-6 col-sm-6 nopadding">
-                        <img src="./images/ID Sample Screenshots/learning OWL.JPG" />
+                        <img src="./images/ID Sample Screenshots/learning OWL.JPG" alt="owl"/>
                     </div>
                     <div className="col-md-6 col-sm-6">
                         <div className="feature-box">
