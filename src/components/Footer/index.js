@@ -8,8 +8,11 @@ function Footer() {
                         <h1>contact me</h1>
                         <p>Felicia Harris-Foster
                             <br />
-                            <a href="mailto:fharrisfoster@gmail.com">Email: fharrisfoster@gmail.com</a>
+                            href={"mailto:fharrisfoster@gmail.com"}Email: fharrisfoster@gmail.com 
+                            
+                            href={""}
                         </p>
+                        <p> Linkedin Profile </p> href={"www.linkedin.com/in/feliciaharrisfoster"}  
                         <p>Phone: 123-456-7890</p>
                         <br />
 
