@@ -22,9 +22,13 @@ GitHub deployed link: https://github.com/harrisfd/ReactPorfolio-FDH
 The following is Felicia Harris-Foster’s deployed React portfolio of work samples.  The portfolio is presented with a page containing a header, section for content, and footer.  Name of Felicia’s name and business is centered in the middle of the page with titles corresponding to the different sections of her portfolio located in the header. Images and links of Felicia’s applications and instructional design work is located in the application. The developed applications will take you to the deployed applications and the GitHub link in the footer will take you to the Felicia’s GitHub repository. 
 
 The following information that is contained in Felicia’s portfolio includes:
+<br />
     •	About me
+    <br />
     •	Portfolio of web development projects
+    <br />
     •	Instructional design work
+    <br />
     •	Resume
 
 Located at the bottom of the page is the footer with email address for anyone to send an email along with LinkedIn and GitHub links. Felicia does not have a Twitter or Stack Overflow accounts. Message section was not included as the hyperlink to the email address will automatically open for the user to send a message. 
