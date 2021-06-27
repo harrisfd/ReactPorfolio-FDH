@@ -1,6 +1,6 @@
 React Personal Portfolio
 
-A personal portfolio page using React.
+A personal portfolio page using React and netlify to deploy the application.
 
 ## Table of Contents
 - [Installation](#installation)
