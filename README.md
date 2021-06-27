@@ -11,12 +11,13 @@ A personal portfolio page using React.
 
 ## Installation
 Deployed application: https://felicia-harrisfoster.netlify.app/
+<br />
 GitHub deployed link: https://github.com/harrisfd/ReactPorfolio-FDH
 
 ## Usage
 
-<img src="./images/Ffharrisfoster consulting web page.jpg" alt="JPG of the application" />
-<img src="./images/Samplelist.jpg" alt="JPG of the sample applications"/>
+<img src="./public/images/Ffharrisfosterconsultingwebpage.jpg" alt="JPG of the application" />
+<img src="./public/images/Samplelist.jpg" alt="JPG of the sample applications"/>
 
 The following is Felicia Harris-Foster’s deployed React portfolio of work samples.  The portfolio is presented with a page containing a header, section for content, and footer.  Name of Felicia’s name and business is centered in the middle of the page with titles corresponding to the different sections of her portfolio located in the header. Images and links of Felicia’s applications and instructional design work is located in the application. The developed applications are deployed and the GitHub link in the footer will take you to the Felicia’s GitHub repository. The following information that is contained in Felicia’s portfolio includes:
 •	About me
